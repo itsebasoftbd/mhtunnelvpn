@@ -1,7 +1,7 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='80.240.20.126';
+HOST='139.162.153.145';
 USER='mhtunnelvpn';
 PASS='mhtunnelvpn';
 DBNAME='mhtunnelvpn';
