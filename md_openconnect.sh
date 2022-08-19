@@ -2,7 +2,7 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='80.240.20.126';
+db_host='139.162.153.145';
 db_user='mhtunnelvpn';
 db_pass='mhtunnelvpn';
 db_name='mhtunnelvpn';
